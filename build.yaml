@@ -1,11 +1,6 @@
 include:
 
   - shield: sofle_left
-    board: nrfmicro33@1.4.0
-  - shield: sofle_right
-    board: nrfmicro33@1.4.0
-
-  - shield: sofle_left
     board: nrfmicro@1.4.0
   - shield: sofle_right
     board: nrfmicro@1.4.0
